@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\Perso\\Work\\I.T.University\\Licence\\L3\\S5\\Archi Log (Mr Tahiana)\\Prog Foot\\FootBall 2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B498C367-E7ED-4B68-94E6-DA580F41420E}|FootBall.csproj|J:\\Perso\\Work\\I.T.University\\Licence\\L3\\S5\\Archi Log (Mr Tahiana)\\Prog Foot\\FootBall 2.0\\entity\\fonction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B498C367-E7ED-4B68-94E6-DA580F41420E}|FootBall.csproj|solutionrelative:entity\\fonction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B498C367-E7ED-4B68-94E6-DA580F41420E}|FootBall.csproj|j:\\perso\\work\\i.t.university\\licence\\l3\\s5\\archi log (mr tahiana)\\prog foot\\football 2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B498C367-E7ED-4B68-94E6-DA580F41420E}|FootBall.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B498C367-E7ED-4B68-94E6-DA580F41420E}|FootBall.csproj|J:\\Perso\\Work\\I.T.University\\Licence\\L3\\S5\\Archi Log (Mr Tahiana)\\Prog Foot\\FootBall 2.0\\entity\\equipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B498C367-E7ED-4B68-94E6-DA580F41420E}|FootBall.csproj|solutionrelative:entity\\equipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B498C367-E7ED-4B68-94E6-DA580F41420E}|FootBall.csproj|J:\\Perso\\Work\\I.T.University\\Licence\\L3\\S5\\Archi Log (Mr Tahiana)\\Prog Foot\\FootBall 2.0\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B498C367-E7ED-4B68-94E6-DA580F41420E}|FootBall.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B498C367-E7ED-4B68-94E6-DA580F41420E}|FootBall.csproj|J:\\Perso\\Work\\I.T.University\\Licence\\L3\\S5\\Archi Log (Mr Tahiana)\\Prog Foot\\FootBall 2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B498C367-E7ED-4B68-94E6-DA580F41420E}|FootBall.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B498C367-E7ED-4B68-94E6-DA580F41420E}|FootBall.csproj|J:\\Perso\\Work\\I.T.University\\Licence\\L3\\S5\\Archi Log (Mr Tahiana)\\Prog Foot\\FootBall 2.0\\entity\\ballon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B498C367-E7ED-4B68-94E6-DA580F41420E}|FootBall.csproj|solutionrelative:entity\\ballon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B498C367-E7ED-4B68-94E6-DA580F41420E}|FootBall.csproj|J:\\Perso\\Work\\I.T.University\\Licence\\L3\\S5\\Archi Log (Mr Tahiana)\\Prog Foot\\FootBall 2.0\\entity\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B498C367-E7ED-4B68-94E6-DA580F41420E}|FootBall.csproj|solutionrelative:entity\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B498C367-E7ED-4B68-94E6-DA580F41420E}|FootBall.csproj|J:\\Perso\\Work\\I.T.University\\Licence\\L3\\S5\\Archi Log (Mr Tahiana)\\Prog Foot\\FootBall 2.0\\connexion\\seconnecter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B498C367-E7ED-4B68-94E6-DA580F41420E}|FootBall.csproj|solutionrelative:connexion\\seconnecter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fonction.cs",
+              "DocumentMoniker": "J:\\Perso\\Work\\I.T.University\\Licence\\L3\\S5\\Archi Log (Mr Tahiana)\\Prog Foot\\FootBall 2.0\\Entity\\Fonction.cs",
+              "RelativeDocumentMoniker": "Entity\\Fonction.cs",
+              "ToolTip": "J:\\Perso\\Work\\I.T.University\\Licence\\L3\\S5\\Archi Log (Mr Tahiana)\\Prog Foot\\FootBall 2.0\\Entity\\Fonction.cs",
+              "RelativeToolTip": "Entity\\Fonction.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAAAgwCABAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:53:44.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SeConnecter.cs",
+              "DocumentMoniker": "J:\\Perso\\Work\\I.T.University\\Licence\\L3\\S5\\Archi Log (Mr Tahiana)\\Prog Foot\\FootBall 2.0\\Connexion\\SeConnecter.cs",
+              "RelativeDocumentMoniker": "Connexion\\SeConnecter.cs",
+              "ToolTip": "J:\\Perso\\Work\\I.T.University\\Licence\\L3\\S5\\Archi Log (Mr Tahiana)\\Prog Foot\\FootBall 2.0\\Connexion\\SeConnecter.cs",
+              "RelativeToolTip": "Connexion\\SeConnecter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:53:44.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "J:\\Perso\\Work\\I.T.University\\Licence\\L3\\S5\\Archi Log (Mr Tahiana)\\Prog Foot\\FootBall 2.0\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "J:\\Perso\\Work\\I.T.University\\Licence\\L3\\S5\\Archi Log (Mr Tahiana)\\Prog Foot\\FootBall 2.0\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:53:44.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Equipe.cs",
+              "DocumentMoniker": "J:\\Perso\\Work\\I.T.University\\Licence\\L3\\S5\\Archi Log (Mr Tahiana)\\Prog Foot\\FootBall 2.0\\Entity\\Equipe.cs",
+              "RelativeDocumentMoniker": "Entity\\Equipe.cs",
+              "ToolTip": "J:\\Perso\\Work\\I.T.University\\Licence\\L3\\S5\\Archi Log (Mr Tahiana)\\Prog Foot\\FootBall 2.0\\Entity\\Equipe.cs",
+              "RelativeToolTip": "Entity\\Equipe.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAADwv3YAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:53:44.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ballon.cs",
+              "DocumentMoniker": "J:\\Perso\\Work\\I.T.University\\Licence\\L3\\S5\\Archi Log (Mr Tahiana)\\Prog Foot\\FootBall 2.0\\Entity\\Ballon.cs",
+              "RelativeDocumentMoniker": "Entity\\Ballon.cs",
+              "ToolTip": "J:\\Perso\\Work\\I.T.University\\Licence\\L3\\S5\\Archi Log (Mr Tahiana)\\Prog Foot\\FootBall 2.0\\Entity\\Ballon.cs",
+              "RelativeToolTip": "Entity\\Ballon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:53:44.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Joueur.cs",
+              "DocumentMoniker": "J:\\Perso\\Work\\I.T.University\\Licence\\L3\\S5\\Archi Log (Mr Tahiana)\\Prog Foot\\FootBall 2.0\\Entity\\Joueur.cs",
+              "RelativeDocumentMoniker": "Entity\\Joueur.cs",
+              "ToolTip": "J:\\Perso\\Work\\I.T.University\\Licence\\L3\\S5\\Archi Log (Mr Tahiana)\\Prog Foot\\FootBall 2.0\\Entity\\Joueur.cs",
+              "RelativeToolTip": "Entity\\Joueur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:53:44.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "J:\\Perso\\Work\\I.T.University\\Licence\\L3\\S5\\Archi Log (Mr Tahiana)\\Prog Foot\\FootBall 2.0\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "J:\\Perso\\Work\\I.T.University\\Licence\\L3\\S5\\Archi Log (Mr Tahiana)\\Prog Foot\\FootBall 2.0\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:53:45.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "J:\\Perso\\Work\\I.T.University\\Licence\\L3\\S5\\Archi Log (Mr Tahiana)\\Prog Foot\\FootBall 2.0\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "J:\\Perso\\Work\\I.T.University\\Licence\\L3\\S5\\Archi Log (Mr Tahiana)\\Prog Foot\\FootBall 2.0\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:53:45.755Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

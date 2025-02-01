@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carte des maisons à Madagascar</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+        #map {
+            height: 80vh; /* La carte occupe 80% de la hauteur de la fenêtre */
+            width: 100%; /* La carte occupe toute la largeur de la fenêtre */
+        }
+        /* Style pour le formulaire */
+        #search-form {
+            margin: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Carte des maisons à Madagascar</h1>
+
+    <!-- Formulaire de recherche -->
+    <div id="search-form">
+        <label for="district">Sélectionner un district/arrondissement :</label>
+        <select id="district">
+            <option value="">Tous</option>
+            <option value="Antananarivo">Antananarivo</option>
+            <option value="Toamasina">Toamasina</option>
+            <option value="Antsiranana">Antsiranana</option>
+            <option value="Mahajanga">Mahajanga</option>
+            <!-- Ajouter plus d'options selon les districts/arrondissements disponibles -->
+        </select>
+        <button onclick="filterHouses()">Rechercher</button>
+    </div>
+
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script>
+        // Créer la carte centrée sur Madagascar
+        var map = L.map('map').setView([-18.7669, 46.8691], 6);
+
+        // Ajouter le fond de carte OpenStreetMap
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        // Définir une icône personnalisée pour les maisons
+        var houseIcon = L.icon({
+            iconUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8zPyImF8fc3dbBmocIghi5BK7wT_L1ONjGg&s',
+            iconSize: [32, 32],
+            iconAnchor: [16, 32],
+            popupAnchor: [0, -32]
+        });
+
+        // Données des maisons (inclus dans le code pour exemple)
+        var houses = [
+            {
+                name: "Maison 1",
+                loyer: "500 000 MGA",
+                district: "Antananarivo",
+                coordinates: [-18.8792, 47.5079],
+                description: "Localisation: Antananarivo"
+            },
+            {
+                name: "Maison 2",
+                loyer: "600 000 MGA",
+                district: "Toamasina",
+                coordinates: [-19.1651, 44.3071],
+                description: "Localisation: Toamasina"
+            },
+            {
+                name: "Maison 3",
+                loyer: "550 000 MGA",
+                district: "Antananarivo",
+                coordinates: [-18.8700, 47.5200],
+                description: "Localisation: Antananarivo"
+            },
+            {
+                name: "Maison 4",
+                loyer: "650 000 MGA",
+                district: "Mahajanga",
+                coordinates: [-15.7300, 46.3400],
+                description: "Localisation: Mahajanga"
+            }
+            // Ajouter d'autres maisons si nécessaire
+        ];
+
+        // Fonction pour afficher toutes les maisons sur la carte
+        function displayHouses(filteredHouses) {
+            // Vider les marqueurs existants avant de redessiner
+            map.eachLayer(function(layer) {
+                if (layer instanceof L.Marker) {
+                    map.removeLayer(layer);
+                }
+            });
+
+            // Ajouter les marqueurs filtrés
+            filteredHouses.forEach(function(house) {
+                var marker = L.marker(house.coordinates, { icon: houseIcon }).addTo(map);
+                marker.bindPopup("<b>" + house.name + "</b><br>Loyer: " + house.loyer + "<br>" + house.description);
+            });
+        }
+
+        // Fonction de filtrage basée sur le district sélectionné
+        function filterHouses() {
+            var selectedDistrict = document.getElementById('district').value;
+            
+            // Filtrer les maisons en fonction du district choisi
+            var filteredHouses = houses.filter(function(house) {
+                return selectedDistrict === "" || house.district === selectedDistrict;
+            });
+
+            // Afficher les maisons filtrées
+            displayHouses(filteredHouses);
+        }
+
+        // Afficher toutes les maisons par défaut
+        displayHouses(houses);
+
+    </script>
+
+</body>
+</html>
+
+

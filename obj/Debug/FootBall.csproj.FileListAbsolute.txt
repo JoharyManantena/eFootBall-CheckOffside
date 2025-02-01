@@ -1,0 +1,88 @@
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\FootBall.exe.config
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\FootBall.exe
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\FootBall.pdb
+D:\Boss\ITU\Session5\Archi log\FootBall\obj\Debug\FootBall.csproj.AssemblyReference.cache
+D:\Boss\ITU\Session5\Archi log\FootBall\obj\Debug\FootBall.FootBall.resources
+D:\Boss\ITU\Session5\Archi log\FootBall\obj\Debug\FootBall.Properties.Resources.resources
+D:\Boss\ITU\Session5\Archi log\FootBall\obj\Debug\FootBall.csproj.GenerateResource.cache
+D:\Boss\ITU\Session5\Archi log\FootBall\obj\Debug\FootBall.csproj.CoreCompileInputs.cache
+D:\Boss\ITU\Session5\Archi log\FootBall\obj\Debug\FootBall.exe
+D:\Boss\ITU\Session5\Archi log\FootBall\obj\Debug\FootBall.pdb
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\dll\x86\opencv_videoio_ffmpeg4100.dll
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\OpenCvSharp.dll
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\System.Buffers.dll
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\System.Memory.dll
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\System.Numerics.Vectors.dll
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\OpenCvSharp.xml
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\System.Buffers.xml
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\System.Memory.xml
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\System.Numerics.Vectors.xml
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Boss\ITU\Session5\Archi log\FootBall\obj\Debug\FootBall.csproj.CopyComplete
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\OpenCvSharp.Extensions.dll
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\System.Drawing.Common.dll
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\OpenCvSharp.Extensions.xml
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\System.Drawing.Common.pdb
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\System.Drawing.Common.xml
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\Npgsql.dll
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\System.Text.Encodings.Web.dll
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\System.Text.Json.dll
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\System.ValueTuple.dll
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\Npgsql.xml
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\System.Text.Encodings.Web.xml
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\System.Text.Json.xml
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Boss\ITU\Session5\Archi log\FootBall\bin\Debug\System.ValueTuple.xml
+D:\Boss\ITU\Session5\Archi log\FootBall\obj\Debug\FootBall.csproj.SuggestedBindingRedirects.cache
+D:\Boss\ITU\Session5\Archi log\FootBall\obj\Debug\FootBall.exe.config
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\dll\x86\opencv_videoio_ffmpeg4100.dll
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\FootBall.exe.config
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\FootBall.exe
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\FootBall.pdb
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\Npgsql.dll
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\OpenCvSharp.dll
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\OpenCvSharp.Extensions.dll
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\System.Buffers.dll
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\System.Drawing.Common.dll
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\System.Memory.dll
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\System.Numerics.Vectors.dll
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\System.Text.Encodings.Web.dll
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\System.Text.Json.dll
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\System.ValueTuple.dll
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\Npgsql.xml
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\OpenCvSharp.xml
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\OpenCvSharp.Extensions.xml
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\System.Buffers.xml
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\System.Drawing.Common.pdb
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\System.Drawing.Common.xml
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\System.Memory.xml
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\System.Numerics.Vectors.xml
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\System.Text.Encodings.Web.xml
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\System.Text.Json.xml
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\System.Threading.Tasks.Extensions.xml
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\bin\Debug\System.ValueTuple.xml
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\obj\Debug\FootBall.csproj.AssemblyReference.cache
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\obj\Debug\FootBall.csproj.SuggestedBindingRedirects.cache
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\obj\Debug\FootBall.exe.config
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\obj\Debug\FootBall.FootBall.resources
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\obj\Debug\FootBall.Properties.Resources.resources
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\obj\Debug\FootBall.csproj.GenerateResource.cache
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\obj\Debug\FootBall.csproj.CoreCompileInputs.cache
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\obj\Debug\FootBall.csproj.Up2Date
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\obj\Debug\FootBall.exe
+J:\Perso\Work\I.T.University\Licence\L3\S5\Archi Log (Mr Tahiana)\Prog Foot\FootBall 2.0\obj\Debug\FootBall.pdb
